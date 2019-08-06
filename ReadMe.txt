@@ -1,0 +1,1 @@
+Write a program in C which will take a number of inputs using array and display them in the output.
